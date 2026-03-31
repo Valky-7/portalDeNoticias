@@ -12,3 +12,6 @@ npx ng serve
 
 ## Criar um novo componente
 npx ng g c header
+
+## Criar um novo componente de rodapé
+npx ng g c footer
