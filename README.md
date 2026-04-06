@@ -27,3 +27,6 @@ npx ng g c regional
 
 ## Criar um novo componente de internacional
 npx ng g c internacional
+
+## Criar um novo componente de home
+npx ng g c home
